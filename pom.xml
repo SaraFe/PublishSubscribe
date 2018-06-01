@@ -1,3 +1,10 @@
+<repositories>
+    <repository>
+        <id>Eclipse Paho Repo</id>
+        <url>https://repo.eclipse.org/content/repositories/paho-releases/</url>
+    </repository>
+</repositories>
+
 <dependency>
   <groupId>org.eclipse.paho</groupId>
   <artifactId>org.eclipse.paho.client.mqttv3</artifactId>
