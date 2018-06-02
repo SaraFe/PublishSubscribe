@@ -8,6 +8,13 @@
   <artifactId>mqtt-sample-code</artifactId>
   <version>1.0-SNAPSHOT</version>
 
+ <repositories>
+     <repository>
+         <id>Eclipse Paho Repo</id>
+         <url>https://repo.eclipse.org/content/repositories/paho-releases/</url>
+     </repository>
+ </repositories>
+         
   <dependencies>
 
     <!-- https://mvnrepository.com/artifact/org.eclipse.paho/org.eclipse.paho.client.mqttv3 -->
